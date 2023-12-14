@@ -7,9 +7,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Blog_App.Data
 {
-    public class BlogAppDbContext : DbContext
+    public class BloggieDbContext : DbContext
     {
-        public BlogAppDbContext(DbContextOptions options) : base(options)
+        public BloggieDbContext(DbContextOptions options) : base(options)
         {
         }
         public DbSet<BlogPost> BlogPosts { get; set; }

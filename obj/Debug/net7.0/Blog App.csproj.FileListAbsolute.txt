@@ -1,0 +1,75 @@
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Blog App.staticwebassets.runtime.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Blog App.exe
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Blog App.deps.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Blog App.runtimeconfig.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Blog App.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Blog App.pdb
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.csproj.AssemblyReference.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.AssemblyInfoInputs.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.AssemblyInfo.cs
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.RazorAssemblyInfo.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.RazorAssemblyInfo.cs
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.Blog App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.Blog App.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blog App.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blog App.props
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\scopedcss\bundle\Blog App.styles.css
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\scopedcss\projectbundle\Blog App.bundle.scp.css
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.csproj.CopyComplete
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\refint\Blog App.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.pdb
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\Blog App.genruntimeconfig.cache
+C:\Users\Eliezer Castro\Desktop\Cursos C#\AspNet Core\BlogApp\obj\Debug\net7.0\ref\Blog App.dll
